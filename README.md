@@ -1,11 +1,11 @@
-Mini Calculator README
+Simple Calculator README
 
 
-Mini Calculator is a simple calculator program developed in Python using Tkinter for the graphical user interface (GUI). This calculator provides basic arithmetic operations and serves as a handy tool for performing calculations quickly and accurately.
+Simple Calculator is a simple calculator program developed in Python using Tkinter for the graphical user interface (GUI). This calculator provides basic arithmetic operations and serves as a handy tool for performing calculations quickly and accurately.
 
 ________________________________________________
 
-While developing the Mini Calculator project I learned several valuable lessons:
+While developing the Simple Calculator project I learned several valuable lessons:
 
 
 1. Tkinter GUI Development: Working with Tkinter allowed me to gain practical experience in creating graphical user interfaces (GUIs) for Python applications. I learned how to design and layout GUI components, handle user interactions, and create visually appealing interfaces.
@@ -21,7 +21,7 @@ While developing the Mini Calculator project I learned several valuable lessons:
 6. Code Organization: Organizing the code into functions and modules improved code readability and maintainability. I learned how to structure the code effectively, separate concerns, and encapsulate functionality into reusable components.
 
 
-Overall, developing the Mini Calculator project provided me with valuable hands-on experience in Python programming, GUI development with Tkinter, arithmetic operations, error handling, user interface design, and software development best practices. It enhanced my skills and knowledge in various areas of software engineering and prepared me for future projects and challenges
+Overall, developing the Simple Calculator project provided me with valuable hands-on experience in Python programming, GUI development with Tkinter, arithmetic operations, error handling, user interface design, and software development best practices. It enhanced my skills and knowledge in various areas of software engineering and prepared me for future projects and challenges
 
 ________________________________________________
 
@@ -30,12 +30,12 @@ Features
 
 Graphical User Interface (GUI)
 
-Mini Calculator features a user-friendly GUI built with Tkinter, allowing users to interact with the calculator effortlessly. The intuitive interface provides easy access to numerical buttons and mathematical operations, enhancing the user experience.
+Simple Calculator features a user-friendly GUI built with Tkinter, allowing users to interact with the calculator effortlessly. The intuitive interface provides easy access to numerical buttons and mathematical operations, enhancing the user experience.
 
 
 Arithmetic Operations
 
-Perform essential arithmetic operations such as addition, subtraction, multiplication, and division using the calculator. Mini Calculator supports basic mathematical calculations and displays results promptly on the screen.
+Perform essential arithmetic operations such as addition, subtraction, multiplication, and division using the calculator. Simple Calculator supports basic mathematical calculations and displays results promptly on the screen.
 
 
 Error Handling
@@ -53,9 +53,9 @@ How to Use
 
 Installation: Download or clone the repository to your local machine.
 
-Dependencies: Ensure you have Python installed on your system. Mini Calculator uses Tkinter, which is included in Python's standard library, so no additional installations are required.
+Dependencies: Ensure you have Python installed on your system. Simple Calculator uses Tkinter, which is included in Python's standard library, so no additional installations are required.
 
-Launch the Calculator: Run the Python script (Calculator.py) to launch the Mini Calculator application.
+Launch the Calculator: Run the Python script (Calculator.py) to launch the Simple Calculator application.
 
 Perform Calculations: Use the numerical buttons to input numbers and the operation buttons (+, -, *, /) to perform arithmetic operations. Press the "=" button to calculate the result.
 
