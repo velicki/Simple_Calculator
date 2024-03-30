@@ -1,9 +1,12 @@
-Simple Calculator README
+# Simple Calculator README
 
 
 Simple Calculator is a simple calculator program developed in Python using Tkinter for the graphical user interface (GUI). This calculator provides basic arithmetic operations and serves as a handy tool for performing calculations quickly and accurately.
 
 ________________________________________________
+
+# WHAT I HAVE LEARNED
+
 
 While developing the Simple Calculator project I learned several valuable lessons:
 
@@ -25,7 +28,7 @@ Overall, developing the Simple Calculator project provided me with valuable hand
 
 ________________________________________________
 
-Features
+# Features
 
 
 Graphical User Interface (GUI)
@@ -49,7 +52,7 @@ Clear the calculator's input field with the "Clear" button to reset the calculat
 
 ____________________________________________________
 
-How to Use
+# How to Use
 
 Installation: Download or clone the repository to your local machine.
 
